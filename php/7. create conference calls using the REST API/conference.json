@@ -1,0 +1,10 @@
+{
+"commands": [
+	{
+  	"dial": {
+			"conferenceName": "myConference"
+		}
+	}
+
+    ]
+}

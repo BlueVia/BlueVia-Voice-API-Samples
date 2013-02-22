@@ -1,0 +1,12 @@
+{
+    "commands": [
+        {
+	  "dial": {
+                "number": {
+                    "callerId": "tel:+<country code<><BlueVia Voice Number>",
+                    "destination": "tel:+<country code><destination phone number>"
+                }
+            }
+        }
+    ]
+}
