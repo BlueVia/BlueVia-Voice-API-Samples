@@ -1,7 +1,7 @@
 <?php
 
 // VARIABLES FOR ALL TESTS
-$url = "https://live-api-nv.bluevia.com:10443/comms/v1/me/numbers/tel:%2B<country code><number to update>";
+$url = "https://live-api.bluevia.com:443/comms/v1/me/numbers/tel:%2B<country code><number to update>";
 $accessCredentials = "<your API key>" . ":" . "<your API secret>";
 $headers = array(
     'Content-Type: application/json',

@@ -17,7 +17,6 @@ if ($eventName == "CalledNumber") {
 				\"getDigits\": {
 					\"timeout\": 5,
 					\"numberOfDigits\": 1,
-					\"retries\": 2,
 					\"actionUrl\": \"http://<your domain>/<your path>/eventHandler.php\",
 					\"speak\": {
 						\"text\": \"Press 1 to create a new conference. Press 2 to join an existing conference call.\",

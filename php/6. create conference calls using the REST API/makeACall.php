@@ -1,5 +1,5 @@
 <?php
-$url = "https://live-api-nv.bluevia.com:10443/comms/v1/calls";
+$url = "https://live-api.bluevia.com:443/comms/v1";
 $accessCredentials = "<your API key>" . ":" . "<your secret>";
 $headers = array(
     'Content-Type: application/json',
